@@ -1,6 +1,6 @@
-# Risk–Coverage–Accuracy for Clinica AI Screening
 
-This repository provides a PyTorch pipeline for training retinal image classifiers and evaluating uncertainty quantification (UQ) methods under a deployment-oriented **risk–coverage–accuracy** framework. The code supports standard image classification, deep ensembles, test-time augmentation, MC dropout, entropy-based uncertainty, maximum softmax probability, and conformal prediction.
+This repository provides a PyTorch pipeline for training retinal image classifiers and evaluating uncertainty quantification (UQ) methods. The code supports standard image classification, deep ensembles, test-time augmentation, MC dropout, entropy-based uncertainty, maximum softmax probability, and conformal prediction.
+
 
 The current examples focus on binary retinal disease classification tasks such as AMD, diabetic retinopathy, and glaucoma referral using fundus images.
 
